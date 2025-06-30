@@ -48,7 +48,7 @@ Abre el notebook `notebooks/exercises.ipynb` y ejecuta los 3 ejercicios:
 - Python 3.8+
 - API key de [OpenRouter](https://openrouter.ai/keys)
 
-## 👥 Creadores
+## 👥 Creadores  
 
 - [Pepe Ruiz](https://github.com/peperuizdev)
 - [Vada Velazquez](https://github.com/DarthVada36)
